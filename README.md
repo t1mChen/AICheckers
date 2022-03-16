@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t1mChen
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me ...
+- 📫 Feel free to have a play of the checker game I've created (Not open source)
 
 <!---
 t1mChen/t1mChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
