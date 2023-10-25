@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t1mChen
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently building Unity Game, Contributing to OpenSource Project FarmBot
 
 
 <!---
